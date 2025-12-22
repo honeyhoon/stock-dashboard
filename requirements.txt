@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+plotly
+google-generativeai
+beautifulsoup4
+requests
+pandas_datareader
+duckduckgo-search
+deep-translator
+groq
